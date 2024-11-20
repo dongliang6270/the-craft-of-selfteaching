@@ -1,5 +1,5 @@
 # Github进行fork后如何与原仓库同步
-
+1111111111111111111111111111
 实在是……有太多人同时在帮忙修订错别字或优化 xiaolai 的 `the-craft-of-selfteaching` 了。如果你提交的 pull request 未被接受且得到回复说：“重新fork”，其实是你遇到一个问题：
 
 > * 在你 fork 之后， xiaolai 的仓库又更新了；
@@ -32,7 +32,7 @@ step 1、进入到本地仓库的目录。
 
 step 2、执行命令 `git remote -v` 查看你的远程仓库的路径：
 
-![image](https://user-images.githubusercontent.com/31027645/54422975-95ed0000-474a-11e9-96bf-1018d6bc06f2.png)
+![image]()
 
 如果只有上面2行，说明你未设置 `upstream` （中文叫：上游代码库）。一般情况下，设置好一次 `upstream` 后就无需重复设置。
 
